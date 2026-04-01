@@ -1,0 +1,484 @@
+--------- beginning of main
+12-21 18:52:16.775  5930  5930 I reguard.android: Using CollectorTypeCMC GC.
+12-21 18:52:16.780  5930  5930 E reguard.android: Not starting debugger since process cannot load the jdwp agent.
+12-21 18:52:16.785  5930  5930 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+12-21 18:52:16.788  5930  5930 D ActivityThread: setConscryptValidator
+12-21 18:52:16.788  5930  5930 D ActivityThread: setConscryptValidator - put
+12-21 18:52:16.809  5930  5930 I ActivityThread: Relaunch all activities: onCoreSettingsChange
+12-21 18:52:16.817  5930  5930 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+12-21 18:52:16.817  5930  5930 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.sidecar.jar
+12-21 18:52:16.838  5930  5930 W reguard.android: Failed to find entry 'classes.dex': Entry not found
+12-21 18:52:16.840  5930  5930 W reguard.android: Failed to find entry 'classes.dex': Entry not found
+12-21 18:52:16.841  5930  5930 W reguard.android: Failed to find entry 'classes.dex': Entry not found
+12-21 18:52:16.845  5930  5930 D nativeloader: Configuring clns-9 for other apk /data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/base.apk:/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/split_config.arm64_v8a.apk:/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/split_config.en.apk:/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/split_config.xxhdpi.apk. target_sdk_version=36, uses_libraries=, library_path=/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/lib/arm64:/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/base.apk!/lib/arm64-v8a:/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/split_config.arm64_v8a.apk!/lib/arm64-v8a:/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/split_config.en.apk!/lib/arm64-v8a:/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8Elltc
+12-21 18:52:16.862  5930  5930 V GraphicsEnvironment: Currently set values for:
+12-21 18:52:16.862  5930  5930 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+12-21 18:52:16.862  5930  5930 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+12-21 18:52:16.862  5930  5930 V GraphicsEnvironment: com.wireguard.android is not listed in per-application setting
+12-21 18:52:16.862  5930  5930 V GraphicsEnvironment: ANGLE allowlist from config: com.dreamgames.royalmatch com.dts.freefiremax com.dxx.firenow com.gramgames.mergedragons com.ludo.king com.mojang.minecraftpe com.my.defense com.nintendo.zaka com.os.airforce com.playrix.fishdomdd.gplay io.teslatech.callbreak jp.konami.prospia net.peakgames.toonblast
+12-21 18:52:16.862  5930  5930 V GraphicsEnvironment: com.wireguard.android is not listed in ANGLE allowlist or settings, returning default
+12-21 18:52:16.862  5930  5930 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+12-21 18:52:16.953  5930  5930 I WireGuard/Application: WireGuard/1.0.20250531 (Android 36; arm64-v8a; a15; samsung SM-A155F; samsung/a15nsxx/a15:16/BP2A.250605.031.A3/A155FXXU7DYK1:user/release-keys)
+--------- beginning of system
+12-21 18:52:17.026  5930  5930 D ActivityThread: com.wireguard.android will use render engine as VK
+12-21 18:52:17.026  5930  5930 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+12-21 18:52:17.029  5930  5930 V Resources: Updating configuration, with default locale en-US and selected locales [en-GB, en-NG]
+12-21 18:52:17.032  5930  5951 I DisplayManager: Choreographer implicitly registered for the refresh rate.
+12-21 18:52:17.032  5930  5951 D HWUI    : CacheManager constructor. deviceInfo=(1080, 1920)
+12-21 18:52:17.033  5930  5951 D libMEOW : meow new tls: 0xb4000073cb0cfb00
+12-21 18:52:17.033  5930  5951 D libMEOW : meow reload base cfg path: na
+12-21 18:52:17.033  5930  5951 D libMEOW : meow reload overlay cfg path: na
+12-21 18:52:17.033  5930  5951 D libMEOW : applied 0 plugin for [com.wireguard.android].
+12-21 18:52:17.039  5930  5951 I mali    : Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+12-21 18:52:17.040  5930  5951 I mali    : Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+12-21 18:52:17.071  5930  5930 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+12-21 18:52:17.072  5930  5930 V Resources: Updating configuration, with default locale en-US and selected locales [en-GB, en-NG]
+12-21 18:52:17.078  5930  5930 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
+12-21 18:52:17.095  5930  5947 D nativeloader: Load /data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libwg-go.so using class loader ns clns-9 (caller=/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/base.apk): ok
+12-21 18:52:17.101  5930  5930 E reguard.android: Invalid resource ID 0x00000000.
+12-21 18:52:17.108  5930  5930 D CompatChangeReporter: Compat change id reported: 377864165; UID 10454; state: ENABLED
+12-21 18:52:17.111  5930  5930 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
+12-21 18:52:17.117  5930  5930 I DecorView: setWindowBackground: isPopOver=false color=fffaf8ff d=android.graphics.drawable.ColorDrawable@60023bf
+--------- beginning of events
+12-21 18:52:17.160  5930  5930 I wm_on_create_called: [174086399,com.wireguard.android.activity.MainActivity,performCreate,74]
+12-21 18:52:17.206  5930  5930 I wm_on_start_called: [174086399,com.wireguard.android.activity.MainActivity,handleStartActivity,46]
+12-21 18:52:17.215  5930  5930 I wm_on_resume_called: [174086399,com.wireguard.android.activity.MainActivity,RESUME_ACTIVITY,7]
+12-21 18:52:17.224  5930  5930 I ViewRootImpl: dVRR is disabled
+12-21 18:52:17.227  5930  5930 D HardwareRenderer: onDisplayChanged. displayId=0 current wxh=1080x2340 mLargest wxh=0x0
+12-21 18:52:17.228  5930  5930 W HWUI    : Unknown dataspace 0
+12-21 18:52:17.228  5930  5930 D HardwareRenderer: Set largestWidth and largestHeight as logical resolution. (1080x2340)
+12-21 18:52:17.228  5930  5951 D HWUI    : setMaxSurfaceArea requested wxh=(1080,2340) requestedSurfaceArea(2527200) mMaxSurfaceArea(2073600)
+12-21 18:52:17.230  5930  5951 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+12-21 18:52:17.249  5930  5930 D InputTransport: Input channel constructed: 'd5f9c72', fd=122
+12-21 18:52:17.250  5930  5930 I InsetsController: onStateChanged: host=com.wireguard.android/com.wireguard.android.activity.MainActivity, from=android.view.ViewRootImpl.onInsetsStateChanged:3026, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2340), mDisplayCutout=DisplayCutout{insets=Rect(0, 80 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(472, 0 - 608, 80), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2340 physicalDisplayWidth=1080 physicalDisplayHeight=2340 density={2.8125} cutoutSpec={M 0,0 H -24.177777778 V 28.4444444444 H 24.177777778 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=113, center=Point(113, 113)}, RoundedCorner{position=TopRight, radius=113, center=Point(967, 113)}, RoundedCorner{position=BottomRight, radius=113, center=Point(967, 2227)}, RoundedCorner{position=BottomLeft, radius=113, center=Point(113, 2227)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2340), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(956, 0 - 1080, 80) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1080 displayHeight=2340 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {b2c30000 mType=statusBars mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {b2c30005 mType=mandatorySystemGestures mFrame=[0,0][1080,114] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {b2c30006 mType=tappableElement mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {174d0001 mType=navigationBars mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0004 mType=systemGestures mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {174d0005 mType=mandatorySystemGestures mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0006 mType=tappableElement mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0024 mType=systemGestures mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null} }
+12-21 18:52:17.255  5930  5930 I VRI[MainActivity]@517d1c2: synced displayState. AttachInfo displayState=2
+12-21 18:52:17.255  5930  5930 I VRI[MainActivity]@517d1c2: setView = com.android.internal.policy.DecorView@495480e IsHRR=false mFlingFrameRateChange=0 TM=true
+12-21 18:52:17.255  5930  5930 I IDS_TAG : Starting IDS observe window
+12-21 18:52:17.255  5930  5930 I IDS_TAG : Getting Shared Preference for com.wireguard.android.Application@a6cff7 uid = 10454
+12-21 18:52:17.259  5930  5930 I IDS_TAG : App com.wireguard.android.Application@a6cff7 has not finished training
+12-21 18:52:17.260  5930  5930 I wm_on_top_resumed_gained_called: [174086399,com.wireguard.android.activity.MainActivity,topStateChangedWhenResumed]
+12-21 18:52:17.261  5930  5930 I IDS_TAG : Closing IDS observe window
+12-21 18:52:17.261  5930  5930 I IDS_TAG : Getting Shared Preference for com.wireguard.android.Application@a6cff7 uid = 10454
+12-21 18:52:17.299  5930  5930 I IDS_TAG : IDS count updated to 1 for com.wireguard.android.Application@a6cff7
+12-21 18:52:17.325  5930  5930 E reguard.android: [perfctl] 5930 5930 FPSGO ver:-1
+12-21 18:52:17.325  5930  5930 E reguard.android: [perfctl] 0 0 0 0
+12-21 18:52:17.328  5930  5930 D BufferQueueConsumer: [](id:172a00000000,api:0,p:-1,c:5930) connect: controlledByApp=false
+12-21 18:52:17.329  5930  5930 I BLASTBufferQueue: [VRI[MainActivity]@517d1c2#0](f:0,a:0,s:0) constructor()
+12-21 18:52:17.330  5930  5930 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[MainActivity]@517d1c2 mNativeObject= 0xb40000734ced8000 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3585 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 android.view.Choreographer.doCallbacks:1367 android.view.Choreographer.doFrame:1292 android.view.Choreographer$FrameDisplayEventReceiver.run:1870 
+12-21 18:52:17.330  5930  5930 I BLASTBufferQueue_Java: update, w= 1080 h= 2340 mName = VRI[MainActivity]@517d1c2 mNativeObject= 0xb40000734ced8000 sc.mNativeObject= 0xb400007405ba34c0 format= -1 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3590 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+12-21 18:52:17.330  5930  5930 I BLASTBufferQueue: [VRI[MainActivity]@517d1c2#0](f:0,a:0,s:0) update width=1080 height=2340 format=-1 mTransformHint=0
+12-21 18:52:17.331  5930  5930 I VRI[MainActivity]@517d1c2: Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) relayoutAsync=false req=(1080,2340)0 dur=11 res=0x3 s={true 0xb40000734cef9e00} ch=true seqId=0
+12-21 18:52:17.332  5930  5930 I VRI[MainActivity]@517d1c2: performConfigurationChange setNightDimText nightDimLevel=0
+12-21 18:52:17.333  5930  5930 D VRI[MainActivity]@517d1c2: mThreadedRenderer.initialize() mSurface={isValid=true 0xb40000734cef9e00} hwInitialized=true
+12-21 18:52:17.334  5930  5930 D VRI[MainActivity]@517d1c2: reportNextDraw android.view.ViewRootImpl.performTraversals:5443 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 
+12-21 18:52:17.334  5930  5930 D VRI[MainActivity]@517d1c2: Setup new sync=wmsSync-VRI[MainActivity]@517d1c2#0
+12-21 18:52:17.334  5930  5930 I VRI[MainActivity]@517d1c2: Creating new active sync group VRI[MainActivity]@517d1c2#1
+12-21 18:52:17.335  5930  5930 D VRI[MainActivity]@517d1c2: registerCallbacksForSync syncBuffer=false
+12-21 18:52:17.342  5930  5976 D VRI[MainActivity]@517d1c2: Received frameDrawingCallback syncResult=0 frameNum=1.
+12-21 18:52:17.342  5930  5951 D reguard.android: Can't load libmbrainSDK
+12-21 18:52:17.342  5930  5951 D reguard.android: initMbrain failed
+12-21 18:52:17.342  5930  5976 I VRI[MainActivity]@517d1c2: mWNT: t=0xb40000734cf6fa80 mBlastBufferQueue=0xb40000734ced8000 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15441 android.view.ThreadedRenderer$1.onFrameDraw:718 <bottom of call stack> 
+12-21 18:52:17.342  5930  5976 I VRI[MainActivity]@517d1c2: Setting up sync and frameCommitCallback
+12-21 18:52:17.474  5930  5951 I GrallocExtra: gralloc_extra_query:is_SW3D 0
+12-21 18:52:17.475  5930  5951 I BLASTBufferQueue: [VRI[MainActivity]@517d1c2#0](f:0,a:0,s:0) onFrameAvailable the first frame is available
+12-21 18:52:17.475  5930  5951 I GrallocExtra: gralloc_extra_query:is_SW3D 0
+12-21 18:52:17.475  5930  5951 I BLASTBufferQueue: [VRI[MainActivity]@517d1c2#0](f:0,a:1,s:0) acquireNextBufferLocked size=1080x2340 mFrameNumber=1 applyTransaction=true mTimestamp=134645986883333(auto) mPendingTransactions.size=0 graphicBufferId=25469156065280 transform=0
+12-21 18:52:17.476  5930  5951 D reguard.android: Can't load libmbrainSDK
+12-21 18:52:17.476  5930  5951 D reguard.android: initMbrain failed
+12-21 18:52:17.476  5930  5951 I VRI[MainActivity]@517d1c2: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+12-21 18:52:17.477  5930  5951 D HWUI    : CFMS:: SetUp Pid : 5930    Tid : 5951
+12-21 18:52:17.477  5930  5930 D VRI[MainActivity]@517d1c2: reportDrawFinished seqId=0
+12-21 18:52:17.477  5930  5930 I viewroot_draw_event: [VRI[MainActivity]@517d1c2,reportDrawFinished seqId=0]
+12-21 18:52:17.477  5930  5951 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+12-21 18:52:17.495  5930  5930 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.wireguard.android/com.wireguard.android.activity.MainActivity
+12-21 18:52:17.496  5930  5930 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.wireguard.android/com.wireguard.android.activity.MainActivity
+12-21 18:52:17.500  5930  5930 I wm_on_idle_called: {com.wireguard.android/com.wireguard.android.activity.MainActivity}
+12-21 18:52:17.504  5930  5930 D VRI[MainActivity]@517d1c2: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb40000734cef9e00}
+12-21 18:52:17.505  5930  5930 D InputMethodManagerUtils: startInputInner - Id : 0
+12-21 18:52:17.505  5930  5930 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+12-21 18:52:17.511  5930  5930 I InputMethodManager: handleMessage: setImeVisibility visible=false
+12-21 18:52:17.511  5930  5930 D InsetsController: hide(ime(), fromIme=false)
+12-21 18:52:17.511  5930  5930 I ImeTracker: com.wireguard.android:530e90a: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+12-21 18:52:17.523  5930  5988 D InputTransport: Input channel constructed: 'ClientS', fd=149
+12-21 18:52:20.495  5930  5930 I VRI[MainActivity]@517d1c2: ViewPostIme pointer 0
+12-21 18:52:20.496  5930  5930 I VRI[MainActivity]@517d1c2: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@517d1c2
+12-21 18:52:20.525  5930  5930 I VRI[MainActivity]@517d1c2: ViewPostIme pointer 1
+12-21 18:52:20.538  5930  5930 I Dialog  : mIsDeviceDefault = false, mIsSamsungBasicInteraction = false, isMetaDataInActivity = false
+12-21 18:52:20.566  5930  5930 I DecorView: setWindowBackground: isPopOver=false color=0 d=android.graphics.drawable.ColorDrawable@39fdb85
+12-21 18:52:20.572  5930  5930 I WindowManager: WindowManagerGlobal#addView, ty=2, view=com.android.internal.policy.DecorView{18dc783 V.E...... R.....I. 0,0-0,0}[MainActivity], caller=android.view.WindowManagerImpl.addView:158 android.app.Dialog.show:540 androidx.fragment.app.DialogFragment.onStart:11 
+12-21 18:52:20.573  5930  5930 I ViewRootImpl: dVRR is disabled
+12-21 18:52:20.633  5930  5951 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+12-21 18:52:20.646  5930  5930 D InputTransport: Input channel constructed: '6971b3c', fd=154
+12-21 18:52:20.647  5930  5930 I InsetsController: onStateChanged: host=com.wireguard.android/com.wireguard.android.activity.MainActivity, from=android.view.ViewRootImpl.onInsetsStateChanged:3026, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2340), mDisplayCutout=DisplayCutout{insets=Rect(0, 80 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(472, 0 - 608, 80), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2340 physicalDisplayWidth=1080 physicalDisplayHeight=2340 density={2.8125} cutoutSpec={M 0,0 H -24.177777778 V 28.4444444444 H 24.177777778 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=113, center=Point(113, 113)}, RoundedCorner{position=TopRight, radius=113, center=Point(967, 113)}, RoundedCorner{position=BottomRight, radius=113, center=Point(967, 2227)}, RoundedCorner{position=BottomLeft, radius=113, center=Point(113, 2227)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2340), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(956, 0 - 1080, 80) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1080 displayHeight=2340 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {b2c30000 mType=statusBars mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {b2c30005 mType=mandatorySystemGestures mFrame=[0,0][1080,114] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {b2c30006 mType=tappableElement mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {174d0001 mType=navigationBars mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0004 mType=systemGestures mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {174d0005 mType=mandatorySystemGestures mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0006 mType=tappableElement mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0024 mType=systemGestures mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null} }
+12-21 18:52:20.647  5930  5930 I VRI[MainActivity]@e7a0d00: synced displayState. AttachInfo displayState=2
+12-21 18:52:20.648  5930  5930 I VRI[MainActivity]@e7a0d00: setView = com.android.internal.policy.DecorView@18dc783 IsHRR=false mFlingFrameRateChange=0 TM=true
+12-21 18:52:20.669  5930  5930 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.wireguard.android/com.wireguard.android.activity.MainActivity
+12-21 18:52:20.670  5930  5930 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.wireguard.android/com.wireguard.android.activity.MainActivity
+12-21 18:52:20.670  5930  5930 D BufferQueueConsumer: [](id:172a00000001,api:0,p:-1,c:5930) connect: controlledByApp=false
+12-21 18:52:20.670  5930  5930 I BLASTBufferQueue: [VRI[MainActivity]@e7a0d00#1](f:0,a:0,s:0) constructor()
+12-21 18:52:20.671  5930  5930 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[MainActivity]@e7a0d00 mNativeObject= 0xb40000734d050800 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3585 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 android.view.Choreographer.doCallbacks:1367 android.view.Choreographer.doFrame:1292 android.view.Choreographer$FrameDisplayEventReceiver.run:1870 
+12-21 18:52:20.671  5930  5930 I BLASTBufferQueue_Java: update, w= 1260 h= 2520 mName = VRI[MainActivity]@e7a0d00 mNativeObject= 0xb40000734d050800 sc.mNativeObject= 0xb40000734d086680 format= -2 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3590 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+12-21 18:52:20.671  5930  5930 I BLASTBufferQueue: [VRI[MainActivity]@e7a0d00#1](f:0,a:0,s:0) update width=1260 height=2520 format=-2 mTransformHint=0
+12-21 18:52:20.671  5930  5930 I VRI[MainActivity]@e7a0d00: Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) relayoutAsync=false req=(1080,2340)0 dur=7 res=0x3 s={true 0xb40000734d118100} ch=true seqId=0
+12-21 18:52:20.672  5930  5930 I VRI[MainActivity]@e7a0d00: performConfigurationChange setNightDimText nightDimLevel=0
+12-21 18:52:20.672  5930  5930 D VRI[MainActivity]@e7a0d00: mThreadedRenderer.initialize() mSurface={isValid=true 0xb40000734d118100} hwInitialized=true
+12-21 18:52:20.680  5930  5930 D VRI[MainActivity]@e7a0d00: reportNextDraw android.view.ViewRootImpl.performTraversals:5443 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 
+12-21 18:52:20.680  5930  5930 D VRI[MainActivity]@e7a0d00: Setup new sync=wmsSync-VRI[MainActivity]@e7a0d00#2
+12-21 18:52:20.680  5930  5930 I VRI[MainActivity]@e7a0d00: Creating new active sync group VRI[MainActivity]@e7a0d00#3
+12-21 18:52:20.681  5930  5930 D VRI[MainActivity]@e7a0d00: registerCallbacksForSync syncBuffer=false
+12-21 18:52:20.685  5930  5975 D VRI[MainActivity]@e7a0d00: Received frameDrawingCallback syncResult=0 frameNum=1.
+12-21 18:52:20.686  5930  5975 I VRI[MainActivity]@e7a0d00: mWNT: t=0xb400007279afaa80 mBlastBufferQueue=0xb40000734d050800 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15441 android.view.ThreadedRenderer$1.onFrameDraw:718 <bottom of call stack> 
+12-21 18:52:20.686  5930  5975 I VRI[MainActivity]@e7a0d00: Setting up sync and frameCommitCallback
+12-21 18:52:20.807  5930  5951 I BLASTBufferQueue: [VRI[MainActivity]@e7a0d00#1](f:0,a:0,s:0) onFrameAvailable the first frame is available
+12-21 18:52:20.807  5930  5951 I BLASTBufferQueue: [VRI[MainActivity]@e7a0d00#1](f:0,a:1,s:0) acquireNextBufferLocked size=1260x2520 mFrameNumber=1 applyTransaction=true mTimestamp=134649319172256(auto) mPendingTransactions.size=0 graphicBufferId=25469156065286 transform=0
+12-21 18:52:20.808  5930  5951 I VRI[MainActivity]@e7a0d00: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+12-21 18:52:20.809  5930  5951 D HWUI    : CFMS:: SetUp Pid : 5930    Tid : 5951
+12-21 18:52:20.810  5930  5930 D VRI[MainActivity]@e7a0d00: reportDrawFinished seqId=0
+12-21 18:52:20.810  5930  5930 I viewroot_draw_event: [VRI[MainActivity]@e7a0d00,reportDrawFinished seqId=0]
+12-21 18:52:20.813  5930  5951 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+12-21 18:52:20.830  5930  5930 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+12-21 18:52:20.830  5930  5930 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+12-21 18:52:20.889  5930  5930 D VRI[MainActivity]@e7a0d00: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb40000734d118100}
+12-21 18:52:20.890  5930  5930 D InputMethodManagerUtils: startInputInner - Id : 0
+12-21 18:52:20.890  5930  5930 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+12-21 18:52:20.895  5930  5942 D InputTransport: Input channel constructed: 'ClientS', fd=164
+12-21 18:52:20.902  5930  5930 I InputMethodManager: handleMessage: setImeVisibility visible=false
+12-21 18:52:20.902  5930  5930 D InsetsController: hide(ime(), fromIme=false)
+12-21 18:52:20.902  5930  5930 I ImeTracker: com.wireguard.android:aab8bce9: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+12-21 18:52:22.753  5930  6141 D ProfileInstaller: Installing profile for com.wireguard.android
+12-21 18:52:22.947  5930  5930 I VRI[MainActivity]@e7a0d00: ViewPostIme pointer 0
+12-21 18:52:22.948  5930  5930 I VRI[MainActivity]@e7a0d00: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@e7a0d00
+12-21 18:52:23.047  5930  5930 I VRI[MainActivity]@e7a0d00: ViewPostIme pointer 1
+12-21 18:52:23.053  5930  5930 I WindowManager: WindowManagerGlobal#removeView, ty=2, view=com.android.internal.policy.DecorView{18dc783 V.E...... R....... 0,0-1080,2340 aid=1073741824}[MainActivity], caller=android.view.WindowManagerGlobal.removeView:654 android.view.WindowManagerImpl.removeViewImmediate:216 android.app.Dialog.dismissDialog:850 
+12-21 18:52:23.054  5930  5930 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=com.google.android.material.motion.MaterialBackOrchestrator$Api34BackCallbackDelegate$1@a46a3fb
+12-21 18:52:23.075  5930  5951 D HWUI    : endAllActiveAnimators on 0xb4000073baa43e00 (RippleDrawable) with handle 0xb40000727697dd00
+12-21 18:52:23.076  5930  5930 I VRI[MainActivity]@e7a0d00: dispatchDetachedFromWindow
+12-21 18:52:23.077  5930  6134 I BLASTBufferQueue: [VRI[MainActivity]@e7a0d00#1](f:0,a:1,s:0) destructor()
+12-21 18:52:23.077  5930  6134 D BufferQueueConsumer: [VRI[MainActivity]@e7a0d00#1(BLAST Consumer)1](id:172a00000001,api:0,p:-1,c:5930) disconnect
+12-21 18:52:23.091  5930  5930 D InputTransport: Input channel destroyed: '6971b3c', fd=154
+12-21 18:52:23.121  5930  5930 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=androidx.activity.OnBackPressedDispatcher$Api34Impl$createOnBackAnimationCallback$1@bdf1545
+12-21 18:52:23.121  5930  5930 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.wireguard.android/com.wireguard.android.activity.MainActivity
+12-21 18:52:23.122  5930  5930 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.wireguard.android/com.wireguard.android.activity.MainActivity
+12-21 18:52:23.124  5930  5930 I InsetsController: onStateChanged: host=com.wireguard.android/com.wireguard.android.activity.MainActivity, from=android.view.ViewRootImpl.onInsetsStateChanged:3026, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2340), mDisplayCutout=DisplayCutout{insets=Rect(0, 80 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(472, 0 - 608, 80), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2340 physicalDisplayWidth=1080 physicalDisplayHeight=2340 density={2.8125} cutoutSpec={M 0,0 H -24.177777778 V 28.4444444444 H 24.177777778 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=113, center=Point(113, 113)}, RoundedCorner{position=TopRight, radius=113, center=Point(967, 113)}, RoundedCorner{position=BottomRight, radius=113, center=Point(967, 2227)}, RoundedCorner{position=BottomLeft, radius=113, center=Point(113, 2227)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2340), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(956, 0 - 1080, 80) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1080 displayHeight=2340 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {b2c30000 mType=statusBars mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {b2c30005 mType=mandatorySystemGestures mFrame=[0,0][1080,114] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {b2c30006 mType=tappableElement mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {174d0001 mType=navigationBars mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0004 mType=systemGestures mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {174d0005 mType=mandatorySystemGestures mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0006 mType=tappableElement mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0024 mType=systemGestures mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null} }
+12-21 18:52:23.125  5930  5930 I wm_on_top_resumed_lost_called: [174086399,com.wireguard.android.activity.MainActivity,topStateChangedWhenResumed]
+12-21 18:52:23.126  5930  5930 I wm_on_paused_called: [174086399,com.wireguard.android.activity.MainActivity,performPause,1]
+12-21 18:52:23.129  5930  5930 D VRI[MainActivity]@517d1c2: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb40000734cef9e00}
+12-21 18:52:23.130  5930  5930 D InputMethodManagerUtils: startInputInner - Id : 0
+12-21 18:52:23.130  5930  5930 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+12-21 18:52:23.132  5930  5930 I InputMethodManager: handleMessage: setImeVisibility visible=false
+12-21 18:52:23.132  5930  5930 D InsetsController: hide(ime(), fromIme=false)
+12-21 18:52:23.132  5930  5930 I ImeTracker: com.wireguard.android:8981f97d: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+12-21 18:52:23.137  5930  5939 D InputTransport: Input channel constructed: 'ClientS', fd=143
+12-21 18:52:23.327  5930  5930 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+12-21 18:52:23.327  5930  5930 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+12-21 18:52:23.464  5930  5930 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.wireguard.android/com.wireguard.android.activity.MainActivity
+12-21 18:52:23.464  5930  5930 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.wireguard.android/com.wireguard.android.activity.MainActivity
+12-21 18:52:23.527  5930  5930 I VRI[MainActivity]@517d1c2: call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@517d1c2
+12-21 18:52:24.032  5930  5930 I VRI[MainActivity]@517d1c2: handleAppVisibility mAppVisible = true visible = false
+12-21 18:52:24.032  5930  5930 D VRI[MainActivity]@517d1c2: visibilityChanged oldVisibility=true newVisibility=false
+12-21 18:52:24.042  5930  5951 D HWUI    : CacheManager::trimMemory(20)
+12-21 18:52:24.054  5930  5930 I BLASTBufferQueue: [VRI[MainActivity]@517d1c2#0](f:0,a:1,s:0) destructor()
+12-21 18:52:24.055  5930  5930 D BufferQueueConsumer: [VRI[MainActivity]@517d1c2#0(BLAST Consumer)0](id:172a00000000,api:0,p:-1,c:5930) disconnect
+12-21 18:52:24.055  5930  5930 I VRI[MainActivity]@517d1c2: Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) relayoutAsync=false req=(1080,2340)8 dur=11 res=0x2 s={false 0x0} ch=true seqId=0
+12-21 18:52:24.056  5930  5930 D VRI[MainActivity]@517d1c2: Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+12-21 18:52:24.056  5930  5930 I viewroot_draw_event: [VRI[MainActivity]@517d1c2,Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility]
+12-21 18:52:28.953  5930  5930 I VRI[MainActivity]@517d1c2: stopped(true) old = false
+12-21 18:52:28.954  5930  5930 D VRI[MainActivity]@517d1c2: WindowStopped on com.wireguard.android/com.wireguard.android.activity.MainActivity set to true
+12-21 18:52:28.955  5930  5951 D HWUI    : CacheManager::trimMemory(20)
+12-21 18:52:28.961  5930  5930 I wm_on_stop_called: [174086399,com.wireguard.android.activity.MainActivity,STOP_ACTIVITY_ITEM,4]
+12-21 18:52:29.079  5930  5930 D InputTransport: Input channel destroyed: 'ClientS', fd=149
+12-21 18:52:29.102  5930  5935 I reguard.android: Background concurrent mark compact GC freed 3631KB AllocSpace bytes, 8(248KB) LOS objects, 60% free, 4047KB/10191KB, paused 170us,1.237ms total 133.786ms
+12-21 18:52:29.103  5930  5951 D HWUI    : CacheManager::trimMemory(20)
+12-21 18:52:29.104  5930  5951 D HWUI    : CacheManager::trimMemory(20)
+12-21 18:52:29.105  5930  5936 D InputTransport: Input channel destroyed: 'ClientS', fd=164
+12-21 18:52:29.105  5930  5936 D InputTransport: Input channel destroyed: 'ClientS', fd=143
+12-21 18:52:29.321  5930  5951 D HWUI    : CacheManager::trimMemory(20)
+12-21 18:52:29.439  5930  5930 D BBA2    : setIsFg isFg = false; delayValue 3999ms
+12-21 18:53:02.697  9398  9398 I reguard.android: Using CollectorTypeCMC GC.
+12-21 18:53:02.701  9398  9398 E reguard.android: Not starting debugger since process cannot load the jdwp agent.
+12-21 18:53:02.706  9398  9398 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+12-21 18:53:02.709  9398  9398 D ActivityThread: setConscryptValidator
+12-21 18:53:02.709  9398  9398 D ActivityThread: setConscryptValidator - put
+12-21 18:53:02.728  9398  9398 I ActivityThread: Relaunch all activities: onCoreSettingsChange
+12-21 18:53:02.736  9398  9398 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+12-21 18:53:02.736  9398  9398 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.sidecar.jar
+12-21 18:53:02.753  9398  9398 W reguard.android: Failed to find entry 'classes.dex': Entry not found
+12-21 18:53:02.753  9398  9398 W reguard.android: Failed to find entry 'classes.dex': Entry not found
+12-21 18:53:02.755  9398  9398 W reguard.android: Failed to find entry 'classes.dex': Entry not found
+12-21 18:53:02.756  9398  9398 D nativeloader: Configuring clns-9 for other apk /data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/base.apk:/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/split_config.arm64_v8a.apk:/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/split_config.en.apk:/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/split_config.xxhdpi.apk. target_sdk_version=36, uses_libraries=, library_path=/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/lib/arm64:/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/base.apk!/lib/arm64-v8a:/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/split_config.arm64_v8a.apk!/lib/arm64-v8a:/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/split_config.en.apk!/lib/arm64-v8a:/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8Elltc
+12-21 18:53:02.785  9398  9398 V GraphicsEnvironment: Currently set values for:
+12-21 18:53:02.785  9398  9398 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+12-21 18:53:02.785  9398  9398 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+12-21 18:53:02.785  9398  9398 V GraphicsEnvironment: com.wireguard.android is not listed in per-application setting
+12-21 18:53:02.785  9398  9398 V GraphicsEnvironment: ANGLE allowlist from config: com.dreamgames.royalmatch com.dts.freefiremax com.dxx.firenow com.gramgames.mergedragons com.ludo.king com.mojang.minecraftpe com.my.defense com.nintendo.zaka com.os.airforce com.playrix.fishdomdd.gplay io.teslatech.callbreak jp.konami.prospia net.peakgames.toonblast
+12-21 18:53:02.785  9398  9398 V GraphicsEnvironment: com.wireguard.android is not listed in ANGLE allowlist or settings, returning default
+12-21 18:53:02.786  9398  9398 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+12-21 18:53:02.835  9398  9398 I WireGuard/Application: WireGuard/1.0.20250531 (Android 36; arm64-v8a; a15; samsung SM-A155F; samsung/a15nsxx/a15:16/BP2A.250605.031.A3/A155FXXU7DYK1:user/release-keys)
+12-21 18:53:02.876  9398  9398 D ActivityThread: com.wireguard.android will use render engine as VK
+12-21 18:53:02.877  9398  9398 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+12-21 18:53:02.890  9398  9398 V Resources: Updating configuration, with default locale en-US and selected locales [en-GB, en-NG]
+12-21 18:53:02.890  9398  9412 D nativeloader: Load /data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/split_config.arm64_v8a.apk!/lib/arm64-v8a/libwg-go.so using class loader ns clns-9 (caller=/data/app/~~gNrHcs1AQK38FKS45WAxIQ==/com.wireguard.android-aywWBp5J8ElltclbEv4lbQ==/base.apk): ok
+12-21 18:53:02.891  9398  9415 I DisplayManager: Choreographer implicitly registered for the refresh rate.
+12-21 18:53:02.892  9398  9415 D HWUI    : CacheManager constructor. deviceInfo=(1080, 1920)
+12-21 18:53:02.893  9398  9415 D libMEOW : meow new tls: 0xb4000073baada440
+12-21 18:53:02.893  9398  9415 D libMEOW : meow reload base cfg path: na
+12-21 18:53:02.893  9398  9415 D libMEOW : meow reload overlay cfg path: na
+12-21 18:53:02.893  9398  9415 D libMEOW : applied 0 plugin for [com.wireguard.android].
+12-21 18:53:02.894  9398  9415 I mali    : Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+12-21 18:53:02.895  9398  9415 I mali    : Successfully parsed 2 environment variable(s) from /vendor/etc/mali_platform.config.
+12-21 18:53:02.897  9398  9398 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+12-21 18:53:02.900  9398  9398 V Resources: Updating configuration, with default locale en-US and selected locales [en-GB, en-NG]
+12-21 18:53:02.907  9398  9398 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
+12-21 18:53:02.943  9398  9398 E reguard.android: Invalid resource ID 0x00000000.
+12-21 18:53:02.960  9398  9398 D CompatChangeReporter: Compat change id reported: 377864165; UID 10454; state: ENABLED
+12-21 18:53:02.962  9398  9398 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
+12-21 18:53:02.968  9398  9398 I DecorView: setWindowBackground: isPopOver=false color=fffaf8ff d=android.graphics.drawable.ColorDrawable@e68b28e
+12-21 18:53:02.997  9398  9398 I wm_on_create_called: [174086399,com.wireguard.android.activity.MainActivity,performCreate,80]
+12-21 18:53:03.040  9398  9398 I wm_on_start_called: [174086399,com.wireguard.android.activity.MainActivity,handleStartActivity,43]
+12-21 18:53:03.052  9398  9398 I wm_on_activity_result_called: [174086399,com.wireguard.android.activity.MainActivity,RESUME_ACTIVITY]
+12-21 18:53:03.058  9398  9398 I wm_on_resume_called: [174086399,com.wireguard.android.activity.MainActivity,RESUME_ACTIVITY,6]
+12-21 18:53:03.075  9398  9398 I ViewRootImpl: dVRR is disabled
+12-21 18:53:03.075  9398  9398 D HardwareRenderer: onDisplayChanged. displayId=0 current wxh=1080x2340 mLargest wxh=0x0
+12-21 18:53:03.075  9398  9398 W HWUI    : Unknown dataspace 0
+12-21 18:53:03.075  9398  9398 D HardwareRenderer: Set largestWidth and largestHeight as logical resolution. (1080x2340)
+12-21 18:53:03.076  9398  9415 D HWUI    : setMaxSurfaceArea requested wxh=(1080,2340) requestedSurfaceArea(2527200) mMaxSurfaceArea(2073600)
+12-21 18:53:03.078  9398  9415 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+12-21 18:53:03.089  9398  9398 D InputTransport: Input channel constructed: 'b399a51', fd=120
+12-21 18:53:03.092  9398  9398 I InsetsController: onStateChanged: host=com.wireguard.android/com.wireguard.android.activity.MainActivity, from=android.view.ViewRootImpl.onInsetsStateChanged:3026, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2340), mDisplayCutout=DisplayCutout{insets=Rect(0, 80 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(472, 0 - 608, 80), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2340 physicalDisplayWidth=1080 physicalDisplayHeight=2340 density={2.8125} cutoutSpec={M 0,0 H -24.177777778 V 28.4444444444 H 24.177777778 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=113, center=Point(113, 113)}, RoundedCorner{position=TopRight, radius=113, center=Point(967, 113)}, RoundedCorner{position=BottomRight, radius=113, center=Point(967, 2227)}, RoundedCorner{position=BottomLeft, radius=113, center=Point(113, 2227)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2340), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(956, 0 - 1080, 80) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1080 displayHeight=2340 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {b2c30000 mType=statusBars mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {b2c30005 mType=mandatorySystemGestures mFrame=[0,0][1080,114] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {b2c30006 mType=tappableElement mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {174d0001 mType=navigationBars mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0004 mType=systemGestures mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {174d0005 mType=mandatorySystemGestures mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0006 mType=tappableElement mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0024 mType=systemGestures mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null} }
+12-21 18:53:03.093  9398  9398 I VRI[MainActivity]@f93d310: synced displayState. AttachInfo displayState=2
+12-21 18:53:03.093  9398  9398 I VRI[MainActivity]@f93d310: setView = com.android.internal.policy.DecorView@45061c5 IsHRR=false mFlingFrameRateChange=0 TM=true
+12-21 18:53:03.093  9398  9398 I IDS_TAG : Starting IDS observe window
+12-21 18:53:03.094  9398  9398 I IDS_TAG : Getting Shared Preference for com.wireguard.android.Application@9aff8cd uid = 10454
+12-21 18:53:03.096  9398  9398 I IDS_TAG : App com.wireguard.android.Application@9aff8cd has not finished training
+12-21 18:53:03.097  9398  9398 I wm_on_top_resumed_gained_called: [174086399,com.wireguard.android.activity.MainActivity,topStateChangedWhenResumed]
+12-21 18:53:03.097  9398  9398 I IDS_TAG : Closing IDS observe window
+12-21 18:53:03.097  9398  9398 I IDS_TAG : Getting Shared Preference for com.wireguard.android.Application@9aff8cd uid = 10454
+12-21 18:53:03.098  9398  9398 I IDS_TAG : IDS count updated to 2 for com.wireguard.android.Application@9aff8cd
+12-21 18:53:03.125  9398  9398 E reguard.android: [perfctl] 9398 9398 FPSGO ver:-1
+12-21 18:53:03.125  9398  9398 E reguard.android: [perfctl] 0 0 0 0
+12-21 18:53:03.125  9398  9398 D BufferQueueConsumer: [](id:24b600000000,api:0,p:-1,c:9398) connect: controlledByApp=false
+12-21 18:53:03.127  9398  9398 I BLASTBufferQueue: [VRI[MainActivity]@f93d310#0](f:0,a:0,s:0) constructor()
+12-21 18:53:03.127  9398  9398 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[MainActivity]@f93d310 mNativeObject= 0xb400007343a62000 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3585 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 android.view.Choreographer.doCallbacks:1367 android.view.Choreographer.doFrame:1292 android.view.Choreographer$FrameDisplayEventReceiver.run:1870 
+12-21 18:53:03.127  9398  9398 I BLASTBufferQueue_Java: update, w= 1080 h= 2340 mName = VRI[MainActivity]@f93d310 mNativeObject= 0xb400007343a62000 sc.mNativeObject= 0xb400007343b41b40 format= -1 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3590 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+12-21 18:53:03.127  9398  9398 I BLASTBufferQueue: [VRI[MainActivity]@f93d310#0](f:0,a:0,s:0) update width=1080 height=2340 format=-1 mTransformHint=0
+12-21 18:53:03.129  9398  9398 I VRI[MainActivity]@f93d310: Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) relayoutAsync=false req=(1080,2340)0 dur=10 res=0x3 s={true 0xb4000073439fe600} ch=true seqId=0
+12-21 18:53:03.130  9398  9398 I VRI[MainActivity]@f93d310: performConfigurationChange setNightDimText nightDimLevel=0
+12-21 18:53:03.130  9398  9398 D VRI[MainActivity]@f93d310: mThreadedRenderer.initialize() mSurface={isValid=true 0xb4000073439fe600} hwInitialized=true
+12-21 18:53:03.136  9398  9398 D VRI[MainActivity]@f93d310: reportNextDraw android.view.ViewRootImpl.performTraversals:5443 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 
+12-21 18:53:03.136  9398  9398 D VRI[MainActivity]@f93d310: Setup new sync=wmsSync-VRI[MainActivity]@f93d310#0
+12-21 18:53:03.136  9398  9398 I VRI[MainActivity]@f93d310: Creating new active sync group VRI[MainActivity]@f93d310#1
+12-21 18:53:03.140  9398  9398 D VRI[MainActivity]@f93d310: registerCallbacksForSync syncBuffer=false
+12-21 18:53:03.152  9398  9415 D reguard.android: Can't load libmbrainSDK
+12-21 18:53:03.152  9398  9415 D reguard.android: initMbrain failed
+12-21 18:53:03.156  9398  9436 D VRI[MainActivity]@f93d310: Received frameDrawingCallback syncResult=0 frameNum=1.
+12-21 18:53:03.156  9398  9436 I VRI[MainActivity]@f93d310: mWNT: t=0xb400007343a01400 mBlastBufferQueue=0xb400007343a62000 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15441 android.view.ThreadedRenderer$1.onFrameDraw:718 <bottom of call stack> 
+12-21 18:53:03.156  9398  9436 I VRI[MainActivity]@f93d310: Setting up sync and frameCommitCallback
+12-21 18:53:03.415  9398  9415 I GrallocExtra: gralloc_extra_query:is_SW3D 0
+12-21 18:53:03.417  9398  9415 I BLASTBufferQueue: [VRI[MainActivity]@f93d310#0](f:0,a:0,s:0) onFrameAvailable the first frame is available
+12-21 18:53:03.418  9398  9415 I GrallocExtra: gralloc_extra_query:is_SW3D 0
+12-21 18:53:03.418  9398  9415 I BLASTBufferQueue: [VRI[MainActivity]@f93d310#0](f:0,a:1,s:0) acquireNextBufferLocked size=1080x2340 mFrameNumber=1 applyTransaction=true mTimestamp=134691928206182(auto) mPendingTransactions.size=0 graphicBufferId=40364102647809 transform=0
+12-21 18:53:03.418  9398  9415 D reguard.android: Can't load libmbrainSDK
+12-21 18:53:03.418  9398  9415 D reguard.android: initMbrain failed
+12-21 18:53:03.419  9398  9415 I VRI[MainActivity]@f93d310: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+12-21 18:53:03.422  9398  9415 D HWUI    : CFMS:: SetUp Pid : 9398    Tid : 9415
+12-21 18:53:03.422  9398  9398 D VRI[MainActivity]@f93d310: reportDrawFinished seqId=0
+12-21 18:53:03.422  9398  9398 I viewroot_draw_event: [VRI[MainActivity]@f93d310,reportDrawFinished seqId=0]
+12-21 18:53:03.423  9398  9415 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+12-21 18:53:03.436  9398  9398 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.wireguard.android/com.wireguard.android.activity.MainActivity
+12-21 18:53:03.437  9398  9398 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.wireguard.android/com.wireguard.android.activity.MainActivity
+12-21 18:53:03.440  9398  9398 I wm_on_idle_called: {com.wireguard.android/com.wireguard.android.activity.MainActivity}
+12-21 18:53:03.452  9398  9398 D VRI[MainActivity]@f93d310: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb4000073439fe600}
+12-21 18:53:03.457  9398  9398 D InputMethodManagerUtils: startInputInner - Id : 0
+12-21 18:53:03.457  9398  9398 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+12-21 18:53:03.469  9398  9398 I InputMethodManager: handleMessage: setImeVisibility visible=false
+12-21 18:53:03.470  9398  9398 D InsetsController: hide(ime(), fromIme=false)
+12-21 18:53:03.470  9398  9398 I ImeTracker: com.wireguard.android:19d1f3b8: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+12-21 18:53:03.486  9398  9446 D InputTransport: Input channel constructed: 'ClientS', fd=152
+12-21 18:53:04.271  9398  9398 E WireGuard/TunnelImporter: Unable to import tunnel: No configurations found
+12-21 18:53:04.271  9398  9398 E WireGuard/TunnelImporter: java.lang.IllegalArgumentException: No configurations found
+12-21 18:53:04.271  9398  9398 E WireGuard/TunnelImporter: 	at com.wireguard.android.util.TunnelImporter$importTunnel$2.invokeSuspend(SourceFile:597)
+12-21 18:53:04.271  9398  9398 E WireGuard/TunnelImporter: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:9)
+12-21 18:53:04.271  9398  9398 E WireGuard/TunnelImporter: 	at kotlinx.coroutines.DispatchedTask.run(SourceFile:119)
+12-21 18:53:04.271  9398  9398 E WireGuard/TunnelImporter: 	at androidx.core.app.ActivityRecreator$1.run(SourceFile:15)
+12-21 18:53:04.271  9398  9398 E WireGuard/TunnelImporter: 	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:3)
+12-21 18:53:04.271  9398  9398 E WireGuard/TunnelImporter: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:91)
+12-21 18:53:05.665  9398  9398 I VRI[MainActivity]@f93d310: ViewPostIme pointer 0
+12-21 18:53:06.001  9398  9398 I VRI[MainActivity]@f93d310: ViewPostIme pointer 1
+12-21 18:53:06.415  9398  9398 I VRI[MainActivity]@f93d310: ViewPostIme pointer 0
+12-21 18:53:06.608  9398  9398 I VRI[MainActivity]@f93d310: ViewPostIme pointer 1
+12-21 18:53:07.240  9398  9398 I VRI[MainActivity]@f93d310: ViewPostIme pointer 0
+12-21 18:53:07.241  9398  9398 I VRI[MainActivity]@f93d310: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@f93d310
+12-21 18:53:07.331  9398  9398 I VRI[MainActivity]@f93d310: ViewPostIme pointer 1
+12-21 18:53:07.344  9398  9398 I menu_item_selected: [0,Settings]
+12-21 18:53:07.375  9398  9398 I wm_on_top_resumed_lost_called: [174086399,com.wireguard.android.activity.MainActivity,topStateChangedWhenResumed]
+12-21 18:53:07.378  9398  9398 I wm_on_paused_called: [174086399,com.wireguard.android.activity.MainActivity,performPause,0]
+12-21 18:53:07.387  9398  9398 D ActivityThread: com.wireguard.android will use render engine as VK
+12-21 18:53:07.399  9398  9398 I wm_on_create_called: [40902638,com.wireguard.android.activity.SettingsActivity,performCreate,5]
+12-21 18:53:07.402  9398  9398 I DecorView: setWindowBackground: isPopOver=false color=fffaf8ff d=android.graphics.drawable.ColorDrawable@abd4363
+12-21 18:53:07.440  9398  9398 I wm_on_start_called: [40902638,com.wireguard.android.activity.SettingsActivity,handleStartActivity,37]
+12-21 18:53:07.441  9398  9398 I wm_on_resume_called: [40902638,com.wireguard.android.activity.SettingsActivity,RESUME_ACTIVITY,0]
+12-21 18:53:07.442  9398  9398 I ViewRootImpl: dVRR is disabled
+12-21 18:53:07.443  9398  9415 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+12-21 18:53:07.446  9398  9398 D InputTransport: Input channel constructed: '51e01c8', fd=145
+12-21 18:53:07.446  9398  9398 I InsetsController: onStateChanged: host=com.wireguard.android/com.wireguard.android.activity.SettingsActivity, from=android.view.ViewRootImpl.onInsetsStateChanged:3026, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2340), mDisplayCutout=DisplayCutout{insets=Rect(0, 80 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(472, 0 - 608, 80), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2340 physicalDisplayWidth=1080 physicalDisplayHeight=2340 density={2.8125} cutoutSpec={M 0,0 H -24.177777778 V 28.4444444444 H 24.177777778 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=113, center=Point(113, 113)}, RoundedCorner{position=TopRight, radius=113, center=Point(967, 113)}, RoundedCorner{position=BottomRight, radius=113, center=Point(967, 2227)}, RoundedCorner{position=BottomLeft, radius=113, center=Point(113, 2227)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2340), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(956, 0 - 1080, 80) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1080 displayHeight=2340 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {b2c30000 mType=statusBars mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {b2c30005 mType=mandatorySystemGestures mFrame=[0,0][1080,114] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {b2c30006 mType=tappableElement mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {174d0001 mType=navigationBars mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0004 mType=systemGestures mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {174d0005 mType=mandatorySystemGestures mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0006 mType=tappableElement mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0024 mType=systemGestures mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null} }
+12-21 18:53:07.447  9398  9398 I VRI[SettingsActivity]@1d8084a: synced displayState. AttachInfo displayState=2
+12-21 18:53:07.447  9398  9398 I VRI[SettingsActivity]@1d8084a: setView = com.android.internal.policy.DecorView@6fa5c31 IsHRR=false mFlingFrameRateChange=0 TM=true
+12-21 18:53:07.447  9398  9398 I wm_on_top_resumed_gained_called: [40902638,com.wireguard.android.activity.SettingsActivity,topStateChangedWhenResumed]
+12-21 18:53:07.460  9398  9398 D BufferQueueConsumer: [](id:24b600000001,api:0,p:-1,c:9398) connect: controlledByApp=false
+12-21 18:53:07.460  9398  9398 I BLASTBufferQueue: [VRI[SettingsActivity]@1d8084a#1](f:0,a:0,s:0) constructor()
+12-21 18:53:07.461  9398  9398 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[SettingsActivity]@1d8084a mNativeObject= 0xb400007343b04c00 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3585 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 android.view.Choreographer.doCallbacks:1367 android.view.Choreographer.doFrame:1292 android.view.Choreographer$FrameDisplayEventReceiver.run:1870 
+12-21 18:53:07.461  9398  9398 I BLASTBufferQueue_Java: update, w= 1080 h= 2340 mName = VRI[SettingsActivity]@1d8084a mNativeObject= 0xb400007343b04c00 sc.mNativeObject= 0xb40000727387e8c0 format= -1 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3590 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+12-21 18:53:07.461  9398  9398 I BLASTBufferQueue: [VRI[SettingsActivity]@1d8084a#1](f:0,a:0,s:0) update width=1080 height=2340 format=-1 mTransformHint=0
+12-21 18:53:07.462  9398  9398 I VRI[SettingsActivity]@1d8084a: Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) relayoutAsync=false req=(1080,2340)0 dur=7 res=0x3 s={true 0xb400007273875e00} ch=true seqId=0
+12-21 18:53:07.463  9398  9398 I VRI[SettingsActivity]@1d8084a: performConfigurationChange setNightDimText nightDimLevel=0
+12-21 18:53:07.463  9398  9398 D VRI[SettingsActivity]@1d8084a: mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007273875e00} hwInitialized=true
+12-21 18:53:07.518  9398  9398 D VRI[SettingsActivity]@1d8084a: reportNextDraw android.view.ViewRootImpl.performTraversals:5443 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 
+12-21 18:53:07.518  9398  9398 D VRI[SettingsActivity]@1d8084a: Setup new sync=wmsSync-VRI[SettingsActivity]@1d8084a#2
+12-21 18:53:07.518  9398  9398 I VRI[SettingsActivity]@1d8084a: Creating new active sync group VRI[SettingsActivity]@1d8084a#3
+12-21 18:53:07.520  9398  9398 D VRI[SettingsActivity]@1d8084a: registerCallbacksForSync syncBuffer=false
+12-21 18:53:07.525  9398  9437 D VRI[SettingsActivity]@1d8084a: Received frameDrawingCallback syncResult=0 frameNum=1.
+12-21 18:53:07.525  9398  9437 I VRI[SettingsActivity]@1d8084a: mWNT: t=0xb4000072739a4880 mBlastBufferQueue=0xb400007343b04c00 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15441 android.view.ThreadedRenderer$1.onFrameDraw:718 <bottom of call stack> 
+12-21 18:53:07.525  9398  9437 I VRI[SettingsActivity]@1d8084a: Setting up sync and frameCommitCallback
+12-21 18:53:07.565  9398  9415 I BLASTBufferQueue: [VRI[SettingsActivity]@1d8084a#1](f:0,a:0,s:0) onFrameAvailable the first frame is available
+12-21 18:53:07.566  9398  9415 I BLASTBufferQueue: [VRI[SettingsActivity]@1d8084a#1](f:0,a:1,s:0) acquireNextBufferLocked size=1080x2340 mFrameNumber=1 applyTransaction=true mTimestamp=134696077515413(auto) mPendingTransactions.size=0 graphicBufferId=40364102647815 transform=0
+12-21 18:53:07.566  9398  9415 I VRI[SettingsActivity]@1d8084a: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+12-21 18:53:07.567  9398  9415 D HWUI    : CFMS:: SetUp Pid : 9398    Tid : 9415
+12-21 18:53:07.567  9398  9398 D VRI[SettingsActivity]@1d8084a: reportDrawFinished seqId=0
+12-21 18:53:07.567  9398  9398 I viewroot_draw_event: [VRI[SettingsActivity]@1d8084a,reportDrawFinished seqId=0]
+12-21 18:53:07.570  9398  9415 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+12-21 18:53:07.570  9398  9398 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+12-21 18:53:07.571  9398  9398 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+12-21 18:53:07.582  9398  9398 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.wireguard.android/com.wireguard.android.activity.SettingsActivity
+12-21 18:53:07.582  9398  9398 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.wireguard.android/com.wireguard.android.activity.SettingsActivity
+12-21 18:53:07.600  9398  9398 I wm_on_idle_called: {com.wireguard.android/com.wireguard.android.activity.SettingsActivity}
+12-21 18:53:07.617  9398  9398 D VRI[SettingsActivity]@1d8084a: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007273875e00}
+12-21 18:53:07.617  9398  9398 D InputMethodManagerUtils: startInputInner - Id : 0
+12-21 18:53:07.617  9398  9398 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+12-21 18:53:07.627  9398  9407 D InputTransport: Input channel constructed: 'ClientS', fd=159
+12-21 18:53:07.636  9398  9398 I InputMethodManager: handleMessage: setImeVisibility visible=false
+12-21 18:53:07.636  9398  9398 D InsetsController: hide(ime(), fromIme=false)
+12-21 18:53:07.636  9398  9398 I ImeTracker: com.wireguard.android:400ffda9: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+12-21 18:53:08.065  9398  9398 I VRI[MainActivity]@f93d310: handleAppVisibility mAppVisible = true visible = false
+12-21 18:53:08.065  9398  9398 D VRI[MainActivity]@f93d310: visibilityChanged oldVisibility=true newVisibility=false
+12-21 18:53:08.082  9398  9398 I BLASTBufferQueue: [VRI[MainActivity]@f93d310#0](f:0,a:1,s:0) destructor()
+12-21 18:53:08.082  9398  9398 D BufferQueueConsumer: [VRI[MainActivity]@f93d310#0(BLAST Consumer)0](id:24b600000000,api:0,p:-1,c:9398) disconnect
+12-21 18:53:08.083  9398  9398 I VRI[MainActivity]@f93d310: Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) relayoutAsync=false req=(1080,2340)8 dur=7 res=0x2 s={false 0x0} ch=true seqId=0
+12-21 18:53:08.083  9398  9398 D VRI[MainActivity]@f93d310: Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+12-21 18:53:08.083  9398  9398 I viewroot_draw_event: [VRI[MainActivity]@f93d310,Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility]
+12-21 18:53:08.083  9398  9398 I VRI[MainActivity]@f93d310: stopped(true) old = false
+12-21 18:53:08.083  9398  9398 D VRI[MainActivity]@f93d310: WindowStopped on com.wireguard.android/com.wireguard.android.activity.MainActivity set to true
+12-21 18:53:08.085  9398  9398 I wm_on_stop_called: [174086399,com.wireguard.android.activity.MainActivity,STOP_ACTIVITY_ITEM,1]
+12-21 18:53:08.532  9398  9459 D ProfileInstaller: Skipping profile installation for com.wireguard.android
+12-21 18:53:09.536  9398  9398 I VRI[SettingsActivity]@1d8084a: ViewPostIme pointer 0
+12-21 18:53:09.536  9398  9398 I VRI[SettingsActivity]@1d8084a: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[SettingsActivity]@1d8084a
+12-21 18:53:09.637  9398  9398 I VRI[SettingsActivity]@1d8084a: ViewPostIme pointer 1
+12-21 18:53:11.585  9398  9398 I VRI[SettingsActivity]@1d8084a: ViewPostIme pointer 0
+12-21 18:53:11.771  9398  9398 I VRI[SettingsActivity]@1d8084a: ViewPostIme pointer 1
+12-21 18:53:12.701  9398  9398 I VRI[SettingsActivity]@1d8084a: ViewPostIme pointer 0
+12-21 18:53:12.870  9398  9398 I VRI[SettingsActivity]@1d8084a: ViewPostIme pointer 1
+12-21 18:53:12.908  9398  9398 I wm_on_top_resumed_lost_called: [40902638,com.wireguard.android.activity.SettingsActivity,topStateChangedWhenResumed]
+12-21 18:53:12.910  9398  9398 I wm_on_paused_called: [40902638,com.wireguard.android.activity.SettingsActivity,performPause,1]
+12-21 18:53:12.918  9398  9398 D ActivityThread: com.wireguard.android will use render engine as VK
+12-21 18:53:12.930  9398  9398 I DecorView: setWindowBackground: isPopOver=false color=fffaf8ff d=android.graphics.drawable.ColorDrawable@6b3c764
+12-21 18:53:12.937  9398  9398 I wm_on_create_called: [219068040,com.wireguard.android.activity.LogViewerActivity,performCreate,14]
+12-21 18:53:12.938  9398  9398 I wm_on_start_called: [219068040,com.wireguard.android.activity.LogViewerActivity,handleStartActivity,1]
+12-21 18:53:12.940  9398  9398 I wm_on_resume_called: [219068040,com.wireguard.android.activity.LogViewerActivity,RESUME_ACTIVITY,1]
+12-21 18:53:12.940  9398  9398 I ViewRootImpl: dVRR is disabled
+12-21 18:53:12.941  9398  9415 D NativeCustomFrequencyManager: [NativeCFMS] BpCustomFrequencyManager::BpCustomFrequencyManager()
+12-21 18:53:12.944  9398  9398 D InputTransport: Input channel constructed: '62f8b91', fd=175
+12-21 18:53:12.944  9398  9398 I InsetsController: onStateChanged: host=com.wireguard.android/com.wireguard.android.activity.LogViewerActivity, from=android.view.ViewRootImpl.onInsetsStateChanged:3026, state=InsetsState: {mDisplayFrame=Rect(0, 0 - 1080, 2340), mDisplayCutout=DisplayCutout{insets=Rect(0, 80 - 0, 0) waterfall=Insets{left=0, top=0, right=0, bottom=0} boundingRect={Bounds=[Rect(0, 0 - 0, 0), Rect(472, 0 - 608, 80), Rect(0, 0 - 0, 0), Rect(0, 0 - 0, 0)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=1080 displayHeight=2340 physicalDisplayWidth=1080 physicalDisplayHeight=2340 density={2.8125} cutoutSpec={M 0,0 H -24.177777778 V 28.4444444444 H 24.177777778 V 0 H 0 Z @dp} rotation={0} scale={1.0} physicalPixelDisplaySizeRatio={1.0}}} sideOverrides={}}, mRoundedCorners=RoundedCorners{[RoundedCorner{position=TopLeft, radius=113, center=Point(113, 113)}, RoundedCorner{position=TopRight, radius=113, center=Point(967, 113)}, RoundedCorner{position=BottomRight, radius=113, center=Point(967, 2227)}, RoundedCorner{position=BottomLeft, radius=113, center=Point(113, 2227)}]}  mRoundedCornerFrame=Rect(0, 0 - 1080, 2340), mPrivacyIndicatorBounds=PrivacyIndicatorBounds {static bounds=Rect(956, 0 - 1080, 80) rotation=0}, mDisplayShape=DisplayShape{ spec=-311912193 displayWidth=1080 displayHeight=2340 physicalPixelDisplaySizeRatio=1.0 rotation=0 offsetX=0 offsetY=0 scale=1.0}, mSources= { InsetsSource: {b2c30000 mType=statusBars mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {b2c30005 mType=mandatorySystemGestures mFrame=[0,0][1080,114] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {b2c30006 mType=tappableElement mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {3 mType=ime mFrame=[0,0][0,0] mVisible=false mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {27 mType=displayCutout mFrame=[0,0][1080,80] mVisible=true mFlags= mSideHint=TOP mBoundingRects=null}, InsetsSource: {174d0001 mType=navigationBars mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0004 mType=systemGestures mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null}, InsetsSource: {174d0005 mType=mandatorySystemGestures mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0006 mType=tappableElement mFrame=[0,2205][1080,2340] mVisible=true mFlags= mSideHint=BOTTOM mBoundingRects=null}, InsetsSource: {174d0024 mType=systemGestures mFrame=[0,0][0,0] mVisible=true mFlags= mSideHint=NONE mBoundingRects=null} }
+12-21 18:53:12.945  9398  9398 I VRI[LogViewerActivity]@d2f63a6: synced displayState. AttachInfo displayState=2
+12-21 18:53:12.945  9398  9398 I VRI[LogViewerActivity]@d2f63a6: setView = com.android.internal.policy.DecorView@ec1843d IsHRR=false mFlingFrameRateChange=0 TM=true
+12-21 18:53:12.945  9398  9398 I wm_on_top_resumed_gained_called: [219068040,com.wireguard.android.activity.LogViewerActivity,topStateChangedWhenResumed]
+12-21 18:53:12.959  9398  9398 D BufferQueueConsumer: [](id:24b600000002,api:0,p:-1,c:9398) connect: controlledByApp=false
+12-21 18:53:12.960  9398  9398 I BLASTBufferQueue: [VRI[LogViewerActivity]@d2f63a6#2](f:0,a:0,s:0) constructor()
+12-21 18:53:12.960  9398  9398 I BLASTBufferQueue_Java: new BLASTBufferQueue, mName= VRI[LogViewerActivity]@d2f63a6 mNativeObject= 0xb400007343a62000 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3585 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 android.view.Choreographer.doCallbacks:1367 android.view.Choreographer.doFrame:1292 android.view.Choreographer$FrameDisplayEventReceiver.run:1870 
+12-21 18:53:12.960  9398  9398 I BLASTBufferQueue_Java: update, w= 1080 h= 2340 mName = VRI[LogViewerActivity]@d2f63a6 mNativeObject= 0xb400007343a62000 sc.mNativeObject= 0xb400007273d770c0 format= -1 caller= android.view.ViewRootImpl.updateBlastSurfaceIfNeeded:3590 android.view.ViewRootImpl.relayoutWindow:11685 android.view.ViewRootImpl.performTraversals:4804 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 
+12-21 18:53:12.960  9398  9398 I BLASTBufferQueue: [VRI[LogViewerActivity]@d2f63a6#2](f:0,a:0,s:0) update width=1080 height=2340 format=-1 mTransformHint=0
+12-21 18:53:12.960  9398  9398 I VRI[LogViewerActivity]@d2f63a6: Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) relayoutAsync=false req=(1080,2340)0 dur=10 res=0x3 s={true 0xb4000073439fdc00} ch=true seqId=0
+12-21 18:53:12.961  9398  9398 I VRI[LogViewerActivity]@d2f63a6: performConfigurationChange setNightDimText nightDimLevel=0
+12-21 18:53:12.961  9398  9398 D VRI[LogViewerActivity]@d2f63a6: mThreadedRenderer.initialize() mSurface={isValid=true 0xb4000073439fdc00} hwInitialized=true
+12-21 18:53:12.964  9398  9398 D VRI[LogViewerActivity]@d2f63a6: reportNextDraw android.view.ViewRootImpl.performTraversals:5443 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910 
+12-21 18:53:12.964  9398  9398 D VRI[LogViewerActivity]@d2f63a6: Setup new sync=wmsSync-VRI[LogViewerActivity]@d2f63a6#4
+12-21 18:53:12.964  9398  9398 I VRI[LogViewerActivity]@d2f63a6: Creating new active sync group VRI[LogViewerActivity]@d2f63a6#5
+12-21 18:53:12.964  9398  9398 D VRI[LogViewerActivity]@d2f63a6: registerCallbacksForSync syncBuffer=false
+12-21 18:53:12.972  9398  9436 D VRI[LogViewerActivity]@d2f63a6: Received frameDrawingCallback syncResult=0 frameNum=1.
+12-21 18:53:12.972  9398  9436 I VRI[LogViewerActivity]@d2f63a6: mWNT: t=0xb40000726b77ff00 mBlastBufferQueue=0xb400007343a62000 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15441 android.view.ThreadedRenderer$1.onFrameDraw:718 <bottom of call stack> 
+12-21 18:53:12.972  9398  9436 I VRI[LogViewerActivity]@d2f63a6: Setting up sync and frameCommitCallback
+12-21 18:53:12.977  9398  9415 I BLASTBufferQueue: [VRI[LogViewerActivity]@d2f63a6#2](f:0,a:0,s:0) onFrameAvailable the first frame is available
+12-21 18:53:12.977  9398  9415 I BLASTBufferQueue: [VRI[LogViewerActivity]@d2f63a6#2](f:0,a:1,s:0) acquireNextBufferLocked size=1080x2340 mFrameNumber=1 applyTransaction=true mTimestamp=134701488887951(auto) mPendingTransactions.size=0 graphicBufferId=40364102647817 transform=0
+12-21 18:53:12.978  9398  9415 I VRI[LogViewerActivity]@d2f63a6: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+12-21 18:53:12.979  9398  9415 D HWUI    : CFMS:: SetUp Pid : 9398    Tid : 9415
+12-21 18:53:12.979  9398  9403 D InputTransport: Input channel destroyed: 'ClientS', fd=159
+12-21 18:53:12.979  9398  9398 D VRI[LogViewerActivity]@d2f63a6: reportDrawFinished seqId=0
+12-21 18:53:12.980  9398  9398 I viewroot_draw_event: [VRI[LogViewerActivity]@d2f63a6,reportDrawFinished seqId=0]
+12-21 18:53:12.982  9398  9415 D HWUI    : HWUI - treat SMPTE_170M as sRGB
+12-21 18:53:12.982  9398  9398 I ImeFocusController: onPreWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+12-21 18:53:12.983  9398  9398 I ImeFocusController: onPostWindowFocus: skipped hasWindowFocus=false mHasImeFocus=true
+12-21 18:53:12.996  9398  9398 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=navigationBars, host=com.wireguard.android/com.wireguard.android.activity.LogViewerActivity
+12-21 18:53:12.997  9398  9398 I InsetsSourceConsumer: applyRequestedVisibilityToControl: visible=true, type=statusBars, host=com.wireguard.android/com.wireguard.android.activity.LogViewerActivity
+12-21 18:53:13.005  9398  9398 I wm_on_idle_called: {com.wireguard.android/com.wireguard.android.activity.LogViewerActivity}
+12-21 18:53:13.026  9398  9398 D VRI[LogViewerActivity]@d2f63a6: mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb4000073439fdc00}
+12-21 18:53:13.027  9398  9398 D InputMethodManagerUtils: startInputInner - Id : 0
+12-21 18:53:13.027  9398  9398 I InputMethodManager: startInputInner - IInputMethodManagerGlobalInvoker.startInputOrWindowGainedFocus
+12-21 18:53:13.029  9398  9398 I InputMethodManager: handleMessage: setImeVisibility visible=false
+12-21 18:53:13.029  9398  9398 D InsetsController: hide(ime(), fromIme=false)
+12-21 18:53:13.029  9398  9398 I ImeTracker: com.wireguard.android:88000d79: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+12-21 18:53:13.029  9398  9408 D InputTransport: Input channel constructed: 'ClientS', fd=151
+12-21 18:53:13.487  9398  9398 I VRI[SettingsActivity]@1d8084a: handleAppVisibility mAppVisible = true visible = false
+12-21 18:53:13.487  9398  9398 D VRI[SettingsActivity]@1d8084a: visibilityChanged oldVisibility=true newVisibility=false
+12-21 18:53:13.511  9398  9398 I BLASTBufferQueue: [VRI[SettingsActivity]@1d8084a#1](f:0,a:1,s:0) destructor()
+12-21 18:53:13.511  9398  9398 D BufferQueueConsumer: [VRI[SettingsActivity]@1d8084a#1(BLAST Consumer)1](id:24b600000001,api:0,p:-1,c:9398) disconnect
+12-21 18:53:13.511  9398  9398 I VRI[SettingsActivity]@1d8084a: Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) relayoutAsync=false req=(1080,2340)8 dur=8 res=0x2 s={false 0x0} ch=true seqId=0
+12-21 18:53:13.511  9398  9398 D VRI[SettingsActivity]@1d8084a: Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility
+12-21 18:53:13.511  9398  9398 I viewroot_draw_event: [VRI[SettingsActivity]@1d8084a,Not drawing due to not visible. Reason=!mAppVisible && !mForceDecorViewVisibility]
+12-21 18:53:13.512  9398  9398 I VRI[SettingsActivity]@1d8084a: stopped(true) old = false
+12-21 18:53:13.512  9398  9398 D VRI[SettingsActivity]@1d8084a: WindowStopped on com.wireguard.android/com.wireguard.android.activity.SettingsActivity set to true
+12-21 18:53:13.513  9398  9398 I wm_on_stop_called: [40902638,com.wireguard.android.activity.SettingsActivity,STOP_ACTIVITY_ITEM,0]
+12-21 18:53:13.525  9398  9398 I VRI[SettingsActivity]@1d8084a: Relayout returned: old=(0,0,1080,2340) new=(0,0,1080,2340) relayoutAsync=false req=(1080,2340)8 dur=4 res=0x2 s={false 0x0} ch=false seqId=0
+12-21 18:53:13.824  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:13.824  9398  9398 I VRI[LogViewerActivity]@d2f63a6: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[LogViewerActivity]@d2f63a6
+12-21 18:53:14.630  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:15.251  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:17.303  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:17.780  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:17.978  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:19.014  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:19.231  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:19.848  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:19.964  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:20.426  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:21.140  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:22.199  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:22.275  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:22.559  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:25.276  9398  9398 I VRI[LogViewerActivity]@d2f63a6: call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[LogViewerActivity]@d2f63a6
+12-21 18:53:25.304  9398  9398 I VRI[LogViewerActivity]@d2f63a6: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[LogViewerActivity]@d2f63a6
+12-21 18:53:25.476  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:25.740  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:26.252  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:27.029  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:27.130  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:28.181  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:30.130  9398  9398 I VRI[LogViewerActivity]@d2f63a6: call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[LogViewerActivity]@d2f63a6
+12-21 18:53:30.131  9398  9398 I VRI[LogViewerActivity]@d2f63a6: call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[LogViewerActivity]@d2f63a6
+12-21 18:53:31.237  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:31.449  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:31.649  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:31.994  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:32.102  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:32.516  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:32.657  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:33.308  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:33.406  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:33.851  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:33.961  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:34.284  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:34.366  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:34.659  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:35.475  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:35.713  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:35.896  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:36.519  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 0
+12-21 18:53:36.614  9398  9398 I VRI[LogViewerActivity]@d2f63a6: ViewPostIme pointer 1
+12-21 18:53:36.626  9398  9398 I menu_item_selected: [0,Export log file]
